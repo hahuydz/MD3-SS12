@@ -1,0 +1,34 @@
+.header{
+    text-align: center;
+    margin: 10px;
+}
+
+.header-1 {
+    text-align: center;
+    border: 1px solid gray;
+    width: 350px;
+    border-radius: 5px;
+    height: 150px;
+}
+
+ .header-2 {
+    text-align: center;
+    border: 1px solid gray;
+    width: 350px;
+    border-radius: 5px;
+}
+
+.header-3 {
+    text-align: center;
+    border: 1px solid gray;
+    width: 350px;
+    border-radius: 5px;
+} 
+
+.d-flex .btn{
+    width: 90%;
+}
+
+.header-2:hover{
+    background-color: rgb(64, 73, 197);
+}
